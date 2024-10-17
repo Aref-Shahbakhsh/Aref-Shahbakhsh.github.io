@@ -18,7 +18,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Graduate Research Assistant 
+role: Graduated Research Assistant 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -44,7 +44,8 @@ profiles:
 interests:
   - Theory of Machine Learning
   - Computational Biology
-  - Optimization
+  - Natural Language Processing
+  - Computer Vision
 
 education:
 
@@ -72,4 +73,4 @@ education:
 
 ## About Me
 
-Aref Shahbakhsh is a Graduated master Student at Sharif University of Technology. his research interests include Theory of machine learning, Computational Biology.
+Aref Shahbakhsh is a Graduated master Student at Sharif University of Technology. his research interests include Theory of machine learning, Computational Biology, Natural Language Processing and Computer Vision.
