@@ -51,13 +51,13 @@ education:
 
   - area: MSc Computer Engineering
     institution: Sharif University of Technology
-    date_start: 2024
-    date_end: 2021
+    date_start: 2021/10/31
+    date_end: 2024/05/11
 
   - area: BSc Computer Science
     institution: University of Sistan and Baluchestan
-    date_start: 2016
-    date_end: 2021
+    date_start: 2016/09/31
+    date_end: 2021/08/15
 
 
 # Skills
@@ -73,4 +73,4 @@ education:
 
 ## About Me
 
-Aref Shahbakhsh is a Graduated master Student at Sharif University of Technology. his research interests include Theory of machine learning, Computational Biology, Natural Language Processing and Computer Vision.
+Aref Shahbakhsh is a graduated master student at Sharif University of Technology. his research interests include theory of machine learning, computational biology, natural language processing and computer vision.
