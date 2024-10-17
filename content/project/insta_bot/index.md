@@ -1,7 +1,7 @@
 ---
-title: Pandas
+title: Instagram bot
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://github.com/Aref-Shahbakhsh/auto_bot_for_instagram
 tags:
   - Hugo
   - Wowchemy
