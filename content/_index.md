@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Download Updated CV
         url: uploads/Aref_Shahbakhsh_cv.pdf
     design:
       css_class: dark
