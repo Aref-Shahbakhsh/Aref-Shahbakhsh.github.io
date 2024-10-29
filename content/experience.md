@@ -29,8 +29,11 @@ sections:
   - block: resume-awards
     content:
       title: Non Academic Awards
-      Gold medal of national student team competition
-      
+      Gold medal of national student team chess competition
+      Gold medal on table 2 in national student team chess competition
+      two-times Silver medal in chess championship of Sharif University of Technology
+      Several gold, Silver and Bronze medals of the chess Provincial Championship 
+
       username: admin
   - block: resume-languages
     content:
