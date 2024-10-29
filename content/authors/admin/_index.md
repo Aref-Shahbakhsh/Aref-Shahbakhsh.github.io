@@ -9,7 +9,7 @@ first_name: Aref
 last_name: Shahbakhsh
 
 # Status emoji
-
+name_pronounciation: ''
 
 # Is this the primary user of the site?
 superuser: true
