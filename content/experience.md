@@ -20,7 +20,7 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Other Skills & Hobbies
       Professtional Chess Player
       Pianist
       username: admin
@@ -28,7 +28,9 @@ sections:
       show_skill_percentage: false
   - block: resume-awards
     content:
-      title: Awards
+      title: Non Academic Awards
+      Gold medal of national student team competition
+      
       username: admin
   - block: resume-languages
     content:
