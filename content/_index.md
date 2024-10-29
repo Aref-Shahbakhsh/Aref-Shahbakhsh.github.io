@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Homepage
 date: 2022-10-24
 type: landing
 
@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-          'Currently my research focus is on machine learning and its application on biology problems'
+          'My current research focuses on applying machine learning to solve biological problems.'
     design:
       columns: '1'
 
