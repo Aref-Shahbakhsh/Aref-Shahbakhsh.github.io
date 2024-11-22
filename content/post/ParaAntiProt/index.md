@@ -4,6 +4,8 @@ summary: Paratope prediction using language models!
 data: 2024-11-22
 authors:
   - admin
+image:
+  caption: 'ParaAntiProt model overview'
 ---
 Im happy to share that our new paper (ParaAntiProt Provides Paratope Prediction Using Antibody and Protein Language Models) has been Published!
 ## Abstract
