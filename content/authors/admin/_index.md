@@ -122,7 +122,7 @@ awards:
 
   - title: First place in University of sistan and baluchestan Chess Championship
     url: https://www.usb.ac.ir/DesktopModules/DnnForge%20-%20NewsArticles/Print.aspx?tabid=1510&tabmoduleid=2202&articleId=13209&moduleId=2504&PortalID=0
-    date: '2017-07-09'
+    date: '2019-07-09'
     awarder: Iran chess federation 
     summary: |
       I won the gold and silver medals several times in University of sistan and baluchestan chess championship.
