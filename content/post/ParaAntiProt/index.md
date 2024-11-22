@@ -1,7 +1,7 @@
 ---
 title: ✅ ParaAntiProt Paper has been Published!
 summary: Paratope prediction using language models!
-data: 2024-11-22
+date: 2024-11-22
 authors:
   - admin
 image:
