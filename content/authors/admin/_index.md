@@ -120,8 +120,6 @@ awards:
     awarder: iran chess federation 
     summary: |
     we won the bronze medal in student chess team olympiad with Sharif University of technology team.
-  
-
 ---
 
 ## About Me
