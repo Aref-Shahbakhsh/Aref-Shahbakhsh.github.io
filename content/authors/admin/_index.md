@@ -68,6 +68,7 @@ languages:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 
+skills:
 
   - name: Other Skills & Hobbies
     color: '#eeac02'
