@@ -57,7 +57,7 @@ education:
   - area: BSc Computer Science
     institution: University of Sistan and Baluchestan
     date_start: 2016-9
-    date_end: 2021-8-
+    date_end: 2021-8u
 
 
 # Skills
