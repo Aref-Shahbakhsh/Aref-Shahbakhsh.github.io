@@ -114,18 +114,18 @@ awards:
       we won the bronze medal in student chess team olympiad with Sharif University of technology team.
   
   - title: Second place in Sharif University of Technology Chess Championship
-    url: https://sport.sharif.ir/5th-universal-sports-olympiad-1401
+    url: 
     date: '2022-03-15'
     awarder: iran chess federation 
     summary: |
       I won the silver medal in the Sharif University of technology Chess championship .
 
   - title: first place in University of sistan and baluchestan Chess Championship
-    url: https://sport.sharif.ir/5th-universal-sports-olympiad-1401
+    url: https://www.usb.ac.ir/DesktopModules/DnnForge%20-%20NewsArticles/Print.aspx?tabid=1510&tabmoduleid=2202&articleId=13209&moduleId=2504&PortalID=0
     date: '2017-07-09'
     awarder: iran chess federation 
     summary: |
-      I won the gold medal several time in University of sistan and baluchestan chess championship .
+      I won the gold and silver medals several times in University of sistan and baluchestan chess championship.
 ---
 
 ## About Me
