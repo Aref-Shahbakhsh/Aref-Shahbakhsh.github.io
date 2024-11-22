@@ -75,10 +75,10 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Pianist
-        description: 'I am plaing piano for resting my mind :)'
+        description: 'I play piano for resting my mind :)'
         percent: 50
       - name: Chess Player
-        description: 'I am playing chess since i was 10! '
+        description: 'I have been playing chess since i was 10! '
         percent: 100
 
 
