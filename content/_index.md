@@ -65,7 +65,7 @@ sections:
 
 
   - block: collection
-    id: news
+    id: post
     content:
       title: Recent News
       subtitle: ''
