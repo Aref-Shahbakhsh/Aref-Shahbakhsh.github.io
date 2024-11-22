@@ -1,9 +1,9 @@
 ---
 title: ✅ ParaAntiProt Paper has been Published!
 summary: Paratope prediction using language models!
+data: 2024-11-22
 authors:
   - admin
-data: 2024-11-22
 ---
 Im happy to share that our new paper (ParaAntiProt Provides Paratope Prediction Using Antibody and Protein Language Models) has been Published! the Abstract provided in below!
 ## Abstract
