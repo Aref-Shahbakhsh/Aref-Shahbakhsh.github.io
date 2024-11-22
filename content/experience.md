@@ -21,6 +21,8 @@ sections:
   - block: resume-skills
     content:
       title: Other Skills & Hobbies
+      Professional chess player
+      Pianist
 
       username: admin
     design:
