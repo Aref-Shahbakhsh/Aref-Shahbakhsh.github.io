@@ -7,6 +7,9 @@ main:
   - name: Bio
     url: /
     weight: 10
+  - name: Post
+    url: post/
+    weight: 40
   - name: Papers
     url: /#papers
     weight: 11
@@ -22,7 +25,5 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: Post
-    url: post/
-    weight: 40
+
     
