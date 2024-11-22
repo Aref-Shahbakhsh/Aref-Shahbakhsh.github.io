@@ -59,9 +59,27 @@ education:
     date_start: 2016-09-01
     date_end: 2021-08-15
 
+languages:
+  - name: English
+    percent: 100
+  - name: Persian
+    percent: 100
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
+
+
+  - name: Other Skills & Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Pianist
+        description: 'I am plaing piano for resting my mind :)'
+        percent: 50
+      - name: Chess Player
+        description: 'I am playing chess since i was 10! '
+        percent: 100
+
 
 
 # Awards.

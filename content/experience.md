@@ -21,9 +21,6 @@ sections:
   - block: resume-skills
     content:
       title: Other Skills & Hobbies
-      Professional chess player
-      Pianist
-
       username: admin
     design:
       show_skill_percentage: false
