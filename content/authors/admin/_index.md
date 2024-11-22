@@ -51,8 +51,8 @@ education:
 
   - area: MSc Computer Engineering
     institution: Sharif University of Technology
-    date_start: 2021-10-1
-    date_end: 2024-5-11
+    date_start: 2021-10
+    date_end: 2024-5
 
   - area: BSc Computer Science
     institution: University of Sistan and Baluchestan
