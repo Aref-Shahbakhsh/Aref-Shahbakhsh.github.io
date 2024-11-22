@@ -70,7 +70,7 @@ languages:
 
 skills:
 
-  - name: Other Skills & Hobbies
+  - name: Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -97,11 +97,11 @@ awards:
     summary: |
       we won the national team gold medal with the University of sistan and Baluchestan team.
 
-  - title: individual silver medal at the National Student Chess Championship (Region-8)
+  - title: Individual silver medal at the National Student Chess Championship (Region-8)
     url: https://www.yjc.ir/fa/news/6510384/%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D9%88-%D8%B3%DB%8C%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%84%D9%88%DA%86%D8%B3%D8%AA%D8%A7%D9%86-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D8%B4%D8%B7%D8%B1%D9%86%D8%AC-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%D8%A7%D9%86-%D9%85%D9%86%D8%B7%D9%82%D9%87-8-%DA%A9%D8%B4%D9%88%D8%B1
 
     date: '2018-04-23'
-    awarder: iran chess federation 
+    awarder: Iran chess federation 
     summary: |
       I won Individual silver medal at the National Student Chess Championship in Blits format.
 
@@ -109,21 +109,21 @@ awards:
     url: https://sport.sharif.ir/5th-universal-sports-olympiad-1401
 
     date: '2022-08-23'
-    awarder: iran chess federation 
+    awarder: Iran chess federation 
     summary: |
       we won the bronze medal in student chess team olympiad with Sharif University of technology team.
   
   - title: Second place in Sharif University of Technology Chess Championship
     url: 
     date: '2022-03-15'
-    awarder: iran chess federation 
+    awarder: Iran chess federation 
     summary: |
       I won the silver medal in the Sharif University of technology Chess championship .
 
-  - title: first place in University of sistan and baluchestan Chess Championship
+  - title: First place in University of sistan and baluchestan Chess Championship
     url: https://www.usb.ac.ir/DesktopModules/DnnForge%20-%20NewsArticles/Print.aspx?tabid=1510&tabmoduleid=2202&articleId=13209&moduleId=2504&PortalID=0
     date: '2017-07-09'
-    awarder: iran chess federation 
+    awarder: Iran chess federation 
     summary: |
       I won the gold and silver medals several times in University of sistan and baluchestan chess championship.
 ---
