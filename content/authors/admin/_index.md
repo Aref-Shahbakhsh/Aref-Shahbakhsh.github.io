@@ -97,7 +97,7 @@ awards:
     summary: |
       we won the national team gold medal with the University of sistan and Baluchestan team.
 
-  - title: individual silver medal at the National Student Chess Championship
+  - title: individual silver medal at the National Student Chess Championship (Region 8)
     url: https://www.yjc.ir/fa/news/6510384/%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D9%88-%D8%B3%DB%8C%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%84%D9%88%DA%86%D8%B3%D8%AA%D8%A7%D9%86-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%D8%B4%D8%B7%D8%B1%D9%86%D8%AC-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%D8%A7%D9%86-%D9%85%D9%86%D8%B7%D9%82%D9%87-8-%DA%A9%D8%B4%D9%88%D8%B1
 
     date: '2018-04-23'
@@ -115,11 +115,17 @@ awards:
   
   - title: Second place in Sharif University of Technology Chess Championship
     url: https://sport.sharif.ir/5th-universal-sports-olympiad-1401
-
-    date: '2022-08-23'
+    date: '2022-03-15'
     awarder: iran chess federation 
     summary: |
-      we won the bronze medal in student chess team olympiad with Sharif University of technology team.
+      I won the silver medal in the Sharif University of technology Chess championship .
+
+  - title: first place in University of sistan and baluchestan Chess Championship
+    url: https://sport.sharif.ir/5th-universal-sports-olympiad-1401
+    date: '2017-07-9'
+    awarder: iran chess federation 
+    summary: |
+      I won the gold medal several time in University of sistan and baluchestan chess championship .
 ---
 
 ## About Me
