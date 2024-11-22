@@ -122,7 +122,7 @@ awards:
 
   - title: first place in University of sistan and baluchestan Chess Championship
     url: https://sport.sharif.ir/5th-universal-sports-olympiad-1401
-    date: '2017-07-9'
+    date: '2017-07-09'
     awarder: iran chess federation 
     summary: |
       I won the gold medal several time in University of sistan and baluchestan chess championship .
