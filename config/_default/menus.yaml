@@ -11,7 +11,7 @@ main:
     url: post/
     weight: 40
   - name: Papers
-    url: /#papers
+    url: publication/
     weight: 11
   - name: Experience
     url: experience/
