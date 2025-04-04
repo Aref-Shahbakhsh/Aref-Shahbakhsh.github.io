@@ -37,12 +37,7 @@ sections:
       text: |-
           'My current research focuses on applying machine learning to solve biological problems.'
 
-  - block: markdown
-    content:
-      title: ' tutorials!'
-      subtitle: 'Machine learning'
-      text: |-
-          'I enjoy sharing my knowledge with others, so I’ve decided to post tutorials (time permitting!) on various topics, particularly in machine learning with a focus on Generative AI. These will cover both theoretical and practical aspects. :) Stay tuned, keep checking my GitHub webpage for updates! Have questions or suggestions? Feel free to email me! :)'
+
           
           
     design:
