@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download Updated CV
-        url: uploads/Aref_Shahbakhsh_cv.pdf
+      # button:
+      #   text: Download Updated CV
+      #   url: uploads/Aref_Shahbakhsh_cv.pdf
     design:
       css_class: dark
       background:
