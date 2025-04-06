@@ -35,10 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-          'My current research focuses on applying machine learning to solve biological problems.'
+          'My current research focuses on machine learning and applying machine learning to solve biological problems.'
 
-
-          
           
     design:
       columns: '1'
