@@ -42,10 +42,10 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Theory of Machine Learning
+  - Machine Learning Theory
   - Computational Biology
-  - Natural Language Processing
-  - Computer Vision
+  - Generative Models
+
 
 education:
 
