@@ -130,4 +130,4 @@ awards:
 
 ## About Me
 
-Aref Shahbakhsh is a graduated master student at Sharif University of Technology. his research interests include theory of machine learning, computational biology, natural language processing and computer vision.
+Aref Shahbakhsh is a graduated master student at Sharif University of Technology. his research interests include  Machine Learning Theory, Computational Biology, Generative models.
