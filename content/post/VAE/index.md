@@ -17,5 +17,5 @@ The Goal is to create compress sample z ~ q(Z|X) with initial orginal data x, th
 
 ## Mathematics of VAE
 So we want to learn q(Z|X) right? lets assume that q has the form of normal distribution, q(Z|X) = N(Z|&mu;,&sigma;)
-by using a nerual network in the form of e(x) = (&mu;&sigma;) and predicting &mu; and &sigma; we can create the q(Z|X) = N(Z|&mu;,&sigma;) = 1 / (σ√(2π)) * e^(-(x−μ))² / 2σ², .......... will be contined............
+by using a nerual network in the form of e(x) = (&mu;&sigma;) and predicting &mu; and &sigma; we can create the q(Z|X) = N(Z|&mu;,&sigma;) = 1 / (σ√(2π)) * e^(-(x−μ))² / 2σ², .......... will be continued............
 
