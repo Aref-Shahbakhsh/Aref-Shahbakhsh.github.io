@@ -7,15 +7,15 @@ authors:
 image:
   caption: 'VAE General Architecture'
 ---
-Varitional Auto Encoder(VAE!) is kind of single latent variable generative models which has the form of P(X,Z), (do not judge a book from its cover if you find this joint probability ugly! 😛) where the X is the data point and zi is the latent Variable.
+Varitional Auto Encoder(VAE!) is kind of single latent variable generative models which has the form Of P(X, Z), (do not judge a book from its cover if you find this joint probability ugly! 😛) where the X is the data point and Z is the latent Variable.
 ## Concepts
-In VAE you have two type of distribution q(Z|X) and P(X|Z) each of them responsible for specific task!
-Actually from the information theory when you want to send the data over internets, its very good idea to compress the data and then send it to your partner 😅 So your orginal data is X and the Z is compress data! and you have q(Z|X) distribution and in your partner side, they get the compress data and should require to decompress it, and the partner has P(X|Z) distribution.
+In VAE, you have two types of distributions, q(Z|X) and P(X|Z), each of them responsible for a specific task!
+Actually, from the information theory, when you want to send the data over the internet, it is a very good idea to compress the data and then send it to your partner 😅 So your original data is X, and the Z is compressed data! And you have q(Z|X) distribution, and on your partner's side, they get the compressed data and should be required to decompress it, and the partner has P(X|Z) distribution.
 
 ## foundations
-The Goal is to create compress sample z ~ q(Z|X) with initial orginal data x, then send z to Partner and try to recreate x ~ P(X|Z). til here! this arcitecture called Auto Encoder! (So you've learned Auto Encoder As well, am i genius?😝), but wait a second dude :) where is the process of new data point generation? here the god of the probability enters :) what if we learn the q(Z|X) distribution? in which we are able to create meaningful Z latent varible by getting a sample from q(Z|X) distribution, which mimics the compress version of data points and passing it to the decoder P(X|Z) and it creates new data points which also mimics the orginal data points patterns. So the final goal is to learn this varitional Encoder and Decoder process!.
+The Goal is to create a compressed sample z ~ q(Z|X) with the initial original data x, then send z to the Partner and try to recreate x ~ P(X|Z). til here! This architecture is called an Auto Encoder! (So you've learned Auto Encoder As well, am I a genius?😝), But wait a second, dude :) Where is the process of the new data point generation? Here, the god of probability enters :) What if we learn the q(Z|X) distribution? We can create a meaningful Z latent variable by getting a sample from the q(Z|X) distribution, which mimics the compressed version of data points, and passing it to the decoder P(X|Z) where it creates new data points that also mimic the original data points' patterns. So the final goal is to learn this variational Encoder and Decoder process!.
 
 ## Mathematics of VAE
-So we want to learn q(Z|X) right? lets assume that q has the form of normal distribution, q(Z|X) = N(Z|&mu;(x),&sigma;(x))
-by using a nerual network in the form of e(x) = (&mu;&sigma;) and predicting &mu; and &sigma; we can create the q(Z|X) = N(Z|&mu;(x),&sigma;(x)) = 1 / (σ√(2π)) * e^(-(x−μ))² / 2σ²,
+The form of this generative model is P(X, Z) = P(X|Z). P(Z). The P(Z) is our prior, which can be considered as a Gaussian distribution, and P(X|Z) is our decoder or generative model, which needs Z to create a data sample X, see? We can recreate the input data sample X, or we can generate a new data sample X (this is a very important property, so pay attention to it :) ) this depends on latent code Z!, so if you pass the compressed version of X which is Z here, you recreate the X or if you get sample Z from q(Z|X) ditributaion you can generate new data sample X which mimics the dataset patterns!. Til here we have our generative model, which is P(X, Z), but this generative model also needs Z! From here i will talk about Z. 
+
 
