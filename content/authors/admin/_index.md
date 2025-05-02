@@ -131,5 +131,5 @@ awards:
 
 ## About Me
 
-I am a graduated master student at Sharif University of Technology. My research interests include  Machine Learning Theory, Computational Biology, Generative Models, and Deep Learning.
+I am a graduated master student at Sharif University of Technology. My research interests include  Machine Learning Theory, Computational Biology, Generative Models and Deep Learning.
 Okay fine, They’re like rare Pokémon sightings in the wild world of ML, so if you spot one in the Post tab, consider yourself lucky! 😜🍀📚 and I post when the ML gods smile upon me 😛😄.
