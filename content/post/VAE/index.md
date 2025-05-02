@@ -16,6 +16,6 @@ Actually from the information theory when you want to send the data over interne
 The Goal is to create compress sample z ~ q(Z|X) with initial orginal data x, then send z to Partner and try to recreate x ~ P(X|Z). til here! this arcitecture Called Auto Encoder! (So you've learned Auto Encoder As well, am i genius?😝), but wait a second dude :) where is the process of new data point generation? here the god of the probability enters :) what if we learn the q(Z|X) distribution? in which we are able to create meaningful Z latent varible by getting a sample from q(Z|X) distribution, which mimics the compress version of data points and passing to decoder P(X|Z) and it creates new data points which also mimics the orginal data points patterns. So the final goal is to learn this varitional Encoder and Decoder process!.
 
 ## Mathematics of VAE
-So we want to learn q(Z|X) right? lets assume that q has the form of normal distribution, q(Z|X) = N(Z|&mu;,&sigma;)
-by using a nerual network in the form of e(x) = (&mu;&sigma;) and predicting &mu; and &sigma; we can create the q(Z|X) = N(Z|&mu;,&sigma;) = 1 / (σ√(2π)) * e^(-(x−μ))² / 2σ², .......... will be continued............
+So we want to learn q(Z|X) right? lets assume that q has the form of normal distribution, q(Z|X) = N(Z|&mu;(x),&sigma;(x))
+by using a nerual network in the form of e(x) = (&mu;&sigma;) and predicting &mu; and &sigma; we can create the q(Z|X) = N(Z|&mu;(x),&sigma;(x)) = 1 / (σ√(2π)) * e^(-(x−μ))² / 2σ²,
 
