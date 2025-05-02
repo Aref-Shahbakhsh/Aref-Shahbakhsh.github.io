@@ -20,5 +20,5 @@ The form of this generative model is P(X, Z) = P(X|Z). P(Z). The P(Z) is our pri
 Okay, by using the Bayesian formula, the q(Z|X) = q(X|Z).q(Z) / q(X), q(Z|X) is called posterior and q(Z) is called prior and q(X|Z) is our likelihood. Unfortunately, by the law of total probability, the q(X) is intractable! So we can not use this formula directly. Here we should approximate the posterior, which can be done using variational inference!
 
 ## Variational inference
-Will be Continued
+Will be Continued....
 
