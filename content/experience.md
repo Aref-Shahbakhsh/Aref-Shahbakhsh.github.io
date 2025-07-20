@@ -5,6 +5,16 @@ type: landing
 
 design:
   spacing: '5rem'
+  background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: pic_me.jpg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
