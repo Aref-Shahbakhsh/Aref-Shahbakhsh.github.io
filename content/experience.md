@@ -6,7 +6,7 @@ type: landing
 design:
   spacing: '5rem'
 
-  image:
+image:
           # Add your image background to `assets/media/`.
           filename: pic_me 6.jpg
           position: center
