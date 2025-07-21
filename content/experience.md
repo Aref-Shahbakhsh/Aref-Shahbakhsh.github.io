@@ -10,7 +10,7 @@ design:
         image:
           # Add your image background to `assets/media/`.
           filename: pic_me 6.jpg
-          position: center
+          position: 200px
           parallax: false
 
 # Note: `username` refers to the user's folder name in `content/authors/`
