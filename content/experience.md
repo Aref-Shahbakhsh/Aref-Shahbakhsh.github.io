@@ -10,9 +10,6 @@ design:
         image:
           # Add your image background to `assets/media/`.
           filename: pic_me 5.jpg
-          filters:
-            brightness: 1.0
-          size: cover
           position: center
           parallax: false
 
