@@ -9,7 +9,7 @@ design:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: pic_me2.jpg
+          filename: pic_me 2.jpg
           filters:
             brightness: 1.0
           size: cover
