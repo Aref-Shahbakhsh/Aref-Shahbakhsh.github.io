@@ -131,5 +131,8 @@ awards:
 
 ## About Me
 
-I am a graduated master student at Sharif University of Technology. My research interests include  Machine Learning Theory, Computational Biology, Generative Models and Deep Learning.
-Okay fine, They’re like rare Pokémon sightings in the wild world of ML, so if you spot one in the Post tab, consider yourself lucky! 😜🍀📚 and I post when the ML gods smile upon me 😛😄.
+I recently wrapped up my Master's in Computer Science at Sharif University of Technology, where I spent most of my time geeking out over Machine Learning Theory, Computational Biology, and Generative Models.
+
+I'm passionate about breaking down complex topics, and I love sharing what I learn along the way. You'll find my writings and deep-dives right here in my [Posts](/post)!
+
+When I'm not in front of a code editor, you can probably find me planning my next checkmate on a chessboard or unwinding with some piano keys.
