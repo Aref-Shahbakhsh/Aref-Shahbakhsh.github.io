@@ -133,6 +133,6 @@ awards:
 
 I recently wrapped up my Master's in Computer Engineering at Sharif University of Technology, where I spent most of my time geeking out over Machine Learning Theory, Computational Biology, and Generative Models.
 
-I'm passionate about breaking down complex topics, and I love sharing what I learn along the way. You'll find my writings and deep-dives right here in my [Posts](/post)!
+I'm passionate about breaking down complex topics, and I love sharing what I learn along the way. You'll find my writings and deep-dives right here in my [posts](/post)!
 
 When I'm not in front of a code editor, you can probably find me planning my next checkmate on a chessboard or unwinding with some piano keys.
