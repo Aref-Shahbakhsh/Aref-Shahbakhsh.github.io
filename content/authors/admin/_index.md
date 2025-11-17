@@ -135,4 +135,4 @@ I recently wrapped up my Master's in Computer Engineering at Sharif University o
 
 I'm passionate about breaking down complex topics, and I love sharing what I learn along the way. You'll find my writings and deep-dives right here in my [posts](/post)!
 
-Off the screen, you can probably find me planning my next checkmate on a chessboard or getting lost in a piece on the piano.
+Away from the screen, you can probably find me planning my next checkmate on a chessboard or getting lost in a piece on the piano.
