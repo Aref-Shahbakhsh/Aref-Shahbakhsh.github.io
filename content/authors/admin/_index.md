@@ -131,7 +131,7 @@ awards:
 
 ## About Me
 
-I recently wrapped up my Master's in Computer Science at Sharif University of Technology, where I spent most of my time geeking out over Machine Learning Theory, Computational Biology, and Generative Models.
+I recently wrapped up my Master's in Computer Engineering at Sharif University of Technology, where I spent most of my time geeking out over Machine Learning Theory, Computational Biology, and Generative Models.
 
 I'm passionate about breaking down complex topics, and I love sharing what I learn along the way. You'll find my writings and deep-dives right here in my [Posts](/post)!
 
