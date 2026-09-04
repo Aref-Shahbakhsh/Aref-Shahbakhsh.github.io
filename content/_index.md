@@ -35,7 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-          'My current research focuses on machine learning and applying machine learning to solve biological problems.'
+          'My current research focuses on machine learning and applying machine learning to solve biological problems.
+          I'm writing a complete tutorial series on generative models from autoregressive and VAEs to energy-based, score-based, diffusion, and flow matching. Check my website regularly for new posts!
+          '
 
           
     design:
