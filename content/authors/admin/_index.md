@@ -136,3 +136,5 @@ I recently wrapped up my Master's in Computer Engineering at Sharif University o
 I'm passionate about breaking down complex topics, and I love sharing what I learn along the way. You'll find my writings and deep-dives right here in my [posts](/post)!
 
 Away from the screen, you can probably find me planning my next checkmate on a chessboard or playing my favorite pieces on the piano.
+
+I'm writing a complete tutorial series on generative models — from autoregressive and VAEs to energy-based, score-based, diffusion, and flow matching, so check my website regularly for new posts!
