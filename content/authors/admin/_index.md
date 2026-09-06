@@ -138,3 +138,5 @@ I'm passionate about breaking down complex topics, and I love sharing what I lea
 Away from the screen, you can probably find me planning my next checkmate on a chessboard or playing my favorite pieces on the piano.
 
 I'm writing a complete tutorial series on generative models from autoregressive and VAEs to energy-based, score-based, diffusion, and flow matching, so check my website regularly for new posts!
+
+<p>🎹 For My piano YouTube channel :) <a href="https://www.youtube.com/@Aref_Piano" target="_blank">Click here!l</a></p>
