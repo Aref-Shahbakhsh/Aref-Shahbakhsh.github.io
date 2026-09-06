@@ -139,4 +139,4 @@ Away from the screen, you can probably find me planning my next checkmate on a c
 
 I'm writing a complete tutorial series on generative models from autoregressive and VAEs to energy-based, score-based, diffusion, and flow matching, so check my website regularly for new posts!
 
-<p>🎹 For My piano YouTube channel :) <a href="https://www.youtube.com/@Aref_Piano" target="_blank">Click here!l</a></p>
+<p>🎹 For My piano YouTube channel <a href="https://www.youtube.com/@Aref_Piano" target="_blank">Click here!</a></p>
