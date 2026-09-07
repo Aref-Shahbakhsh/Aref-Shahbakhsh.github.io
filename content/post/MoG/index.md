@@ -1,7 +1,9 @@
+---
 title: ✅ Mixture of Gussians!
 summary: Basic concepts and foundations!
-date: 2026-07-09
+date:2026-09-07
 authors:
   - admin
 image:
   caption: 'MoG General Overview!'
+---
