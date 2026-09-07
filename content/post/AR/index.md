@@ -1,6 +1,6 @@
 title: ✅ Auto Regressive Model!
 summary: Basic concepts and foundations!
-date: 2026-09-07
+date: 2026-07-09
 authors:
   - admin
 image:
